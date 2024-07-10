@@ -1,4 +1,3 @@
-\# 💫 About Me:
 Olá, meu nome é Marcelo Silveira Rossi<br><br>Tenho 22 anos e faço graduação em Ciência da Computação na UNIFRAN<br>
 
 
